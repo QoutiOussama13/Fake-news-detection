@@ -10,9 +10,9 @@ Our model is trained on two datasets, 'True.csv' and 'Fake.csv', and has achieve
 ## **Technologies Used**
 Our Fake News Detector Mobile Application is built using the following technologies:
 
-**NLP (Natural Language Processing)**: for preprocessing the corpus
-**Machine learning**: for predicting if the news is fake or not
-**KivyMD**: for launching the model in the mobile application
++ **NLP (Natural Language Processing)**: for preprocessing the corpus.
++ **Machine learning**: for predicting if the news is fake or not.
++ **KivyMD**: for launching the model in the mobile application.
 
 ## **Future Work**
 In the future, we plan to improve the model's accuracy by training it on more diverse and extensive datasets. Additionally, we plan to expand the mobile application's functionality by integrating more features such as voice input and real-time news analysis.
